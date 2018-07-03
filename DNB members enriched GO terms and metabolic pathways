@@ -1,0 +1,269 @@
+GO terms_pantherGeneList					
+ARATH|TAIR=AT4G20630|UniProtKB=P0CJ51	AT4G20640	Cysteine-rich repeat secretory protein 44;CRRSP44;ortholog	CYSTEINE-RICH REPEAT SECRETORY PROTEIN 18-RELATED (PTHR32411:SF42)		Arabidopsis thaliana
+ARATH|TAIR=AT1G76590|UniProtKB=Q2HIW3	AT1G76590	At1g76590;At1g76590;ortholog	PLATZ TRANSCRIPTION FACTOR FAMILY PROTEIN (PTHR31065:SF12)		Arabidopsis thaliana
+ARATH|TAIR=AT1G29910|UniProtKB=Q8VZ87	CAB3	"Chlorophyll a-b binding protein 3, chloroplastic;LHCB1.2;ortholog"	"CHLOROPHYLL A-B BINDING PROTEIN 1, CHLOROPLASTIC-RELATED (PTHR21649:SF61)"		Arabidopsis thaliana
+ARATH|TAIR=AT5G57785|UniProtKB=Q8GY06	AT5G57785	At5g57785;At5g57785;ortholog			Arabidopsis thaliana
+ARATH|Gene=AT1G02010|UniProtKB=Q9C5P7	SEC1A	Protein transport Sec1a;SEC1A;ortholog	PROTEIN TRANSPORT SEC1A (PTHR11679:SF59)	membrane trafficking regulatory protein(PC00151);transporter(PC00227)	Arabidopsis thaliana
+ARATH|TAIR=AT3G17080|UniProtKB=Q9LSN9	AT3G17080	Plant self-incompatibility protein S1 family;At3g17080;ortholog	PLANT SELF-INCOMPATIBILITY PROTEIN S1 FAMILY-RELATED (PTHR31232:SF19)		Arabidopsis thaliana
+ARATH|TAIR=AT3G12320|UniProtKB=Q9LHH5	AT3G12320	Protein LNK3;LNK3;ortholog	PROTEIN LNK3-RELATED (PTHR33334:SF2)		Arabidopsis thaliana
+ARATH|Gene=AT4G17310|UniProtKB=Q949V8	AT4G17310	At4g17310;At4g17310;ortholog	SUBFAMILY NOT NAMED (PTHR33156:SF9)		Arabidopsis thaliana
+ARATH|TAIR=AT2G30540|UniProtKB=O04341	AT2G30540	Monothiol glutaredoxin-S9;GRXS9;ortholog	GLUTAREDOXIN-C13-RELATED (PTHR10168:SF57)		Arabidopsis thaliana
+ARATH|TAIR=AT3G21220|UniProtKB=Q8RXG3	ATMKK5	Mitogen-activated protein kinase kinase 5;MKK5;ortholog	MITOGEN-ACTIVATED PROTEIN KINASE KINASE 4-RELATED (PTHR24361:SF319)		Arabidopsis thaliana
+ARATH|TAIR=AT5G43230|UniProtKB=F4K4M9	AT5G43230	EEIG1/EHBP1 protein amino-terminal domain protein;MNL12.5;ortholog	EEIG1/EHBP1 PROTEIN AMINO-TERMINAL DOMAIN PROTEIN (PTHR31344:SF5)		Arabidopsis thaliana
+ARATH|TAIR=AT5G38197|UniProtKB=A8MRC2	AT5G38197	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein;At5g38197;ortholog	BIFUNCTIONAL INHIBITOR/LIPID-TRANSFER PROTEIN/SEED STORAGE 2S ALBUMIN SUPERFAMILY PROTEIN (PTHR33214:SF20)		Arabidopsis thaliana
+ARATH|TAIR=AT4G28700|UniProtKB=Q9SVT8	AT4G28700	Ammonium transporter 1 member 4;AMT1-4;ortholog	AMMONIUM TRANSPORTER 1 MEMBER 4 (PTHR11730:SF82)	transporter(PC00227)	Arabidopsis thaliana
+ARATH|Gene=AT1G31070|UniProtKB=Q940S3	AT1G31070	UDP-N-acetylglucosamine diphosphorylase 1;GLCNAC1PUT1;ortholog	LD24639P (PTHR11952:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT3G28340|UniProtKB=Q9LHD2	GATL10	Probable galacturonosyltransferase-like 10;GATL10;ortholog	GALACTURONOSYLTRANSFERASE-LIKE 10-RELATED (PTHR13778:SF14)		Arabidopsis thaliana
+ARATH|TAIR=AT1G36745|UniProtKB=F4I392	AT1G36745	Uncharacterized protein;At1g36745;ortholog			Arabidopsis thaliana
+ARATH|TAIR=locus|UniProtKB=Q94CK4	AT5G12380	Annexin D8;ANNAT8;ortholog	ANNEXIN D8 (PTHR10502:SF113)		Arabidopsis thaliana
+ARATH|TAIR=AT3G25420|UniProtKB=Q9LSV8	SCPL21	Serine carboxypeptidase-like 21;SCPL21;ortholog	LYSOSOMAL PROTECTIVE PROTEIN (PTHR11802:SF197)	serine protease(PC00203)	Arabidopsis thaliana
+ARATH|TAIR=AT1G62290|UniProtKB=Q8VYL3	AT1G62290	Aspartic proteinase A2;APA2;ortholog	CATHD (PTHR13683:SF549)	aspartic protease(PC00053)	Arabidopsis thaliana
+ARATH|Gene_OrderedLocusName=At1g51870|UniProtKB=A0A1P8AW67	AT1G51870	Protein kinase family protein;At1g51870;ortholog	INTERLEUKIN-1 RECEPTOR-ASSOCIATED KINASE 4 PROTEIN-RELATED (PTHR45631:SF7)		Arabidopsis thaliana
+ARATH|Gene=AT5G43930|UniProtKB=F4K7D1	AT5G43930	Transducin family protein / WD-40 repeat family protein;MRH10.2;ortholog	TRANSDUCIN FAMILY PROTEIN / WD-40 REPEAT FAMILY PROTEIN (PTHR22874:SF6)		Arabidopsis thaliana
+ARATH|TAIR=AT5G67350|UniProtKB=Q9FN16	AT5G67350	At5g67350;At5g67350;ortholog	SUBFAMILY NOT NAMED (PTHR33922:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT3G05640|UniProtKB=Q9M9W9	AT3G05640	Probable protein phosphatase 2C 34;At3g05640;ortholog	PROTEIN PHOSPHATASE 2C 34-RELATED (PTHR13832:SF198)	kinase inhibitor(PC00139);protein phosphatase(PC00195)	Arabidopsis thaliana
+ARATH|Gene=AT4G13940|UniProtKB=O23255	HOG1	Adenosylhomocysteinase 1;SAHH1;ortholog	ADENOSYLHOMOCYSTEINASE-RELATED (PTHR23420:SF0)	hydrolase(PC00121)	Arabidopsis thaliana
+ARATH|TAIR=AT4G20560|UniProtKB=P0CJ58	AT4G20640	Cysteine-rich repeat secretory protein 51;CRRSP51;ortholog	CYSTEINE-RICH REPEAT SECRETORY PROTEIN 18-RELATED (PTHR32411:SF42)		Arabidopsis thaliana
+ARATH|TAIR=AT1G52650|UniProtKB=Q9SSR7	AT1G52650	F-box/LRR-repeat protein At1g52650;At1g52650;ortholog	F-BOX/RNI SUPERFAMILY PROTEIN-RELATED (PTHR31639:SF6)		Arabidopsis thaliana
+ARATH|TAIR=AT5G63090|UniProtKB=Q9FML4	LOB	Protein LATERAL ORGAN BOUNDARIES;LOB;ortholog	PROTEIN LATERAL ORGAN BOUNDARIES (PTHR31301:SF73)		Arabidopsis thaliana
+ARATH|TAIR=AT4G35025|UniProtKB=B3H7G5	AT4G35025	Uncharacterized protein;At4g35025;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT3G48730|UniProtKB=Q42522	GSA2	"Glutamate-1-semialdehyde 2,1-aminomutase 2, chloroplastic;GSA2;ortholog"	"GLUTAMATE-1-SEMIALDEHYDE 2,1-AMINOMUTASE 1, CHLOROPLASTIC-RELATED (PTHR43713:SF2)"	mutase(PC00160);transaminase(PC00216)	Arabidopsis thaliana
+ARATH|TAIR=AT1G26810|UniProtKB=Q8L7F9	GALT1	"Beta-1,3-galactosyltransferase GALT1;GALT1;ortholog"	"BETA-1,3-GALACTOSYLTRANSFERASE GALT1 (PTHR11214:SF129)"	glycosyltransferase(PC00111)	Arabidopsis thaliana
+ARATH|TAIR=AT3G57400|UniProtKB=Q9M2K7	AT3G57400	Putative uncharacterized protein F28O9.250;F28O9.250;ortholog	EMB|CAB68146.1 (PTHR34960:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT3G13230|UniProtKB=Q9LTU6	AT3G13230	At3g13230;At3g13230;ortholog	RNA-BINDING PROTEIN PNO1 (PTHR12826:SF13)		Arabidopsis thaliana
+ARATH|Gene=AT2G27160|UniProtKB=A8MQQ5	AT2G27160	Uncharacterized protein;At2g27160;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT5G46030|UniProtKB=Q8LEF3	AT5G46030	Transcription elongation factor 1 homolog;At5g46030;ortholog	TRANSCRIPTION ELONGATION FACTOR 1 HOMOLOG (PTHR20934:SF3)		Arabidopsis thaliana
+ARATH|TAIR=AT1G80010|UniProtKB=Q9S793	FRS8	Protein FAR1-RELATED SEQUENCE 8;FRS8;ortholog	PROTEIN FAR1-RELATED SEQUENCE 8 (PTHR31669:SF4)		Arabidopsis thaliana
+ARATH|TAIR=AT3G26480|UniProtKB=Q9LIM7	AT3G26480	Transducin family protein / WD-40 repeat family protein;At3g26480;ortholog	TRANSDUCIN FAMILY PROTEIN / WD-40 REPEAT FAMILY PROTEIN-RELATED (PTHR45176:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT1G66430|UniProtKB=Q9C524	AT1G66430	"Probable fructokinase-6, chloroplastic;At1g66430;ortholog"	"FRUCTOKINASE-6, CHLOROPLASTIC-RELATED (PTHR43085:SF8)"	carbohydrate kinase(PC00065);nucleotide kinase(PC00172)	Arabidopsis thaliana
+ARATH|TAIR=AT5G63150|UniProtKB=Q9FMK8	AT5G63150	At5g63150;MDC12.12;ortholog	AURORA KINASE A-INTERACTING PROTEIN (PTHR32035:SF3)		Arabidopsis thaliana
+ARATH|TAIR=AT4G01400|UniProtKB=Q8LDU5	AT4G01400	"Pentatricopeptide repeat-containing protein At4g01400, mitochondrial;At4g01400;ortholog"	SUBFAMILY NOT NAMED (PTHR45613:SF220)		Arabidopsis thaliana
+ARATH|TAIR=AT4G25860|UniProtKB=Q9SVZ9	AT4G25860	Oxysterol-binding protein-related protein 4A;ORP4A;ortholog	OXYSTEROL-BINDING PROTEIN-RELATED PROTEIN 5 (PTHR10972:SF102)		Arabidopsis thaliana
+ARATH|TAIR=AT4G08990|UniProtKB=Q9M0S8	AT4G08990	DNA (cytosine-5)-methyltransferase 2;MET2;ortholog	DNA (CYTOSINE-5)-METHYLTRANSFERASE 1 (PTHR10629:SF11)		Arabidopsis thaliana
+ARATH|TAIR=AT1G55430|UniProtKB=Q4TU44	AT1G55430	Cysteine/Histidine-rich C1 domain family protein;At1g55430;ortholog	CHP-RICH ZINC FINGER PROTEIN-RELATED (PTHR32410:SF153)		Arabidopsis thaliana
+ARATH|TAIR=AT5G35890|UniProtKB=Q9FFL4	AT5G35890	Beta-galactosidase related protein;MIK22.20;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT2G18100|UniProtKB=F4IPL5	AT2G18100	Transmembrane/coiled-coil protein (DUF726);At2g18100;ortholog	TRANSMEMBRANE AND COILED-COIL DOMAIN-CONTAINING PROTEIN 4 (PTHR17920:SF3)		Arabidopsis thaliana
+ARATH|TAIR=AT1G28590|UniProtKB=Q8RXT9	AT1G28590	GDSL esterase/lipase At1g28590;At1g28590;ortholog	SUBFAMILY NOT NAMED (PTHR22835:SF298)		Arabidopsis thaliana
+ARATH|TAIR=AT4G25930|UniProtKB=Q1PE50	AT4G25930	Putative uncharacterized protein;At4g25930;ortholog	C2H2-LIKE ZINC FINGER PROTEIN-RELATED (PTHR31681:SF3)		Arabidopsis thaliana
+ARATH|TAIR=AT3G23310|UniProtKB=Q9LW66	AT3G23310	"AGC (cAMP-dependent, cGMP-dependent and protein kinase C) kinase family protein;At3g23310;ortholog"	"AGC (CAMP-DEPENDENT, CGMP-DEPENDENT AND PROTEIN KINASE C) KINASE FAMILY PROTEIN (PTHR24356:SF312)"	annexin(PC00050);calmodulin(PC00061);non-receptor serine/threonine protein kinase(PC00167);transfer/carrier protein(PC00219)	Arabidopsis thaliana
+ARATH|TAIR=AT1G17520|UniProtKB=F4I7L1	AT1G17520	Telomere repeat-binding factor 4;At1g17520;ortholog	TELOMERE REPEAT-BINDING FACTOR 4-RELATED (PTHR46267:SF3)		Arabidopsis thaliana
+ARATH|Gene=AT1G23520|UniProtKB=Q9ZUE2	AT1G23520	F28C11.15;F5O8.8;ortholog	EXPRESSED PROTEIN-RELATED (PTHR31385:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT1G53310|UniProtKB=Q9MAH0	ATPPC1	Phosphoenolpyruvate carboxylase 1;PPC1;ortholog	PHOSPHOENOLPYRUVATE CARBOXYLASE 1-RELATED (PTHR30523:SF11)	lyase(PC00144)	Arabidopsis thaliana
+ARATH|TAIR=AT4G20610|UniProtKB=P0CJ53	AT4G20640	Cysteine-rich repeat secretory protein 46;CRRSP46;ortholog	CYSTEINE-RICH REPEAT SECRETORY PROTEIN 18-RELATED (PTHR32411:SF42)		Arabidopsis thaliana
+ARATH|TAIR=AT2G34240|UniProtKB=F4IGX9	AT2G34240	Uncharacterized protein;At2g34240;ortholog	ECHINUS SPLICE FORM 3 (PTHR22975:SF9)	cysteine protease(PC00081);ubiquitin-protein ligase(PC00234)	Arabidopsis thaliana
+ARATH|TAIR=AT5G15190|UniProtKB=Q8GW49	AT5G15190	At5g15190;At5g15190;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT4G33280|UniProtKB=Q8RYD1	AT4G33280	B3 domain-containing protein REM16;REM16;ortholog	B3 DOMAIN-CONTAINING PROTEIN REM16 (PTHR31391:SF45)		Arabidopsis thaliana
+ARATH|TAIR=AT1G56600|UniProtKB=Q9FXB2	ATGOLS2	Galactinol synthase 2;GOLS2;ortholog	GALACTINOL SYNTHASE 1-RELATED (PTHR11183:SF33)	transferase(PC00220)	Arabidopsis thaliana
+ARATH|TAIR=AT2G01735|UniProtKB=Q8GUU2	RIE1	E3 ubiquitin protein ligase RIE1;RIE1;ortholog	E3 UBIQUITIN PROTEIN LIGASE RIE1 (PTHR45977:SF6)		Arabidopsis thaliana
+ARATH|TAIR=AT3G57062|UniProtKB=Q0WRF0	AT3G57062	Putative uncharacterized protein;At3g57062;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT2G38220|UniProtKB=B3H754	AT2G38220	RING/U-box superfamily protein;APD3;ortholog	RING/U-BOX SUPERFAMILY PROTEIN (PTHR46858:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT4G16260|UniProtKB=Q8VZJ2	AT4G16260	"Probable glucan endo-1,3-beta-glucosidase At4g16260;At4g16260;ortholog"	SUBFAMILY NOT NAMED (PTHR32227:SF226)		Arabidopsis thaliana
+ARATH|TAIR=AT1G52770|UniProtKB=Q9C941	AT1G52770	At1g52770;At1g52770;ortholog	NON-PHOTOTROPIC HYPOCOTYL-LIKE PROTEIN (PTHR32370:SF16)		Arabidopsis thaliana
+ARATH|TAIR=AT5G43211|UniProtKB=B3H5F2	AT5G43211	Uncharacterized protein;At5g43211;ortholog			Arabidopsis thaliana
+ARATH|Gene=AT5G20660|UniProtKB=Q0WVZ7	AT5G20660	24 kDa vacuolar protein-like;At5g20655;ortholog	24 KDA VACUOLAR PROTEIN-LIKE (PTHR12147:SF26)	metalloprotease(PC00153)	Arabidopsis thaliana
+ARATH|TAIR=AT3G28380|UniProtKB=Q9LSJ6	PGP17	ABC transporter B family member 17;ABCB17;ortholog	ABC TRANSPORTER B FAMILY MEMBER 15-RELATED (PTHR24221:SF381)	cysteine protease(PC00081);serine protease(PC00203)	Arabidopsis thaliana
+ARATH|Gene=AT2G27920|UniProtKB=Q67Y83	SCPL51	Serine carboxypeptidase-like 51;SCPL51;ortholog	RETINOID-INDUCIBLE SERINE CARBOXYPEPTIDASE (PTHR11802:SF3)	serine protease(PC00203)	Arabidopsis thaliana
+ARATH|TAIR=AT1G64640|UniProtKB=Q6NLD7	AT1G64640	At1g64640;ENODL8;ortholog	SUBFAMILY NOT NAMED (PTHR33021:SF44)		Arabidopsis thaliana
+ARATH|TAIR=AT3G23200|UniProtKB=Q8L7R5	AT3G23200	CASP-like protein 5B3;At3g23200;ortholog	CASP-LIKE PROTEIN 5B3 (PTHR32021:SF5)		Arabidopsis thaliana
+ARATH|TAIR=AT1G76360|UniProtKB=A4FVS9	AT1G76360	At1g76360;At1g76360;ortholog	INTERLEUKIN-1 RECEPTOR-ASSOCIATED KINASE 4 PROTEIN-RELATED (PTHR45621:SF30)		Arabidopsis thaliana
+ARATH|TAIR=AT4G20530|UniProtKB=P0CJ61	AT4G20640	Cysteine-rich repeat secretory protein 54;CRRSP54;ortholog	CYSTEINE-RICH REPEAT SECRETORY PROTEIN 18-RELATED (PTHR32411:SF42)		Arabidopsis thaliana
+ARATH|TAIR=AT2G28700|UniProtKB=F4IIT6	AGL46	AGAMOUS-like 46;AGL46;ortholog	SERUM RESPONSE FACTOR (PTHR11945:SF221)	MADS box transcription factor(PC00250)	Arabidopsis thaliana
+ARATH|TAIR=AT4G32920|UniProtKB=F4JV81	AT4G32920	Glycine-rich protein;At4g32920;ortholog	EPHRIN TYPE-B RECEPTOR-RELATED (PTHR31513:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT2G43030|UniProtKB=Q9SKX4	AT2G43030	"50S ribosomal protein L3-1, chloroplastic;RPL3A;ortholog"	"50S RIBOSOMAL PROTEIN L3-1, CHLOROPLASTIC (PTHR11229:SF9)"		Arabidopsis thaliana
+ARATH|TAIR=AT2G30670|UniProtKB=O49332	AT2G30670	Tropinone reductase homolog At2g30670;At2g30670;ortholog	SENESCENCE-ASSOCIATED PROTEIN 13 (PTHR42898:SF7)	dehydrogenase(PC00092);reductase(PC00198)	Arabidopsis thaliana
+ARATH|TAIR=AT3G04110|UniProtKB=Q9M8W7	ATGLR1	Glutamate receptor 1.1;GLR1.1;ortholog	GLUTAMATE RECEPTOR 1.1-RELATED (PTHR18966:SF374)		Arabidopsis thaliana
+ARATH|TAIR=AT5G27010|UniProtKB=F4K2T0	AT5G27010	ARM repeat superfamily protein;At5g27010;ortholog	TESTIS-EXPRESSED PROTEIN 10 (PTHR16056:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT4G22140|UniProtKB=F4JL28	AT4G22140	Chromatin remodeling protein EBS;EBS;ortholog	CHROMATIN REMODELING PROTEIN EBS (PTHR46364:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT3G44370|UniProtKB=Q0WUC5	AT3G44370	"ALBINO3-like protein 3, mitochondrial;ALB3L3;ortholog"	"ALBINO3-LIKE PROTEIN 2, CHLOROPLASTIC-RELATED (PTHR12428:SF22)"	transporter(PC00227)	Arabidopsis thaliana
+ARATH|TAIR=AT4G20540|UniProtKB=P0CJ60	AT4G20640	Cysteine-rich repeat secretory protein 53;CRRSP53;ortholog	CYSTEINE-RICH REPEAT SECRETORY PROTEIN 18-RELATED (PTHR32411:SF42)		Arabidopsis thaliana
+ARATH|TAIR=AT4G22517|UniProtKB=A8MQX9	AT4G22517	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein;At4g22517;ortholog	BIFUNCTIONAL INHIBITOR/LIPID-TRANSFER PROTEIN/SEED STORAGE 2S ALBUMIN SUPERFAMILY PROTEIN-RELATED (PTHR31731:SF14)		Arabidopsis thaliana
+ARATH|TAIR=AT3G03800|UniProtKB=Q9SRV7	SYP131	Putative syntaxin-131;SYP131;ortholog	SYNTAXIN-132-RELATED (PTHR19957:SF144)	SNARE protein(PC00034)	Arabidopsis thaliana
+ARATH|TAIR=AT3G30220|UniProtKB=F4J5F6	AT3G30220	Uncharacterized protein;At3g30220;ortholog	SUBFAMILY NOT NAMED (PTHR31420:SF10)		Arabidopsis thaliana
+ARATH|TAIR=AT5G10750|UniProtKB=Q9LEW4	AT5G10750	At5g10750;T30N20_20;ortholog	ENHANCED DISEASE RESISTANCE-LIKE PROTEIN (DUF1336) (PTHR12136:SF91)	G-protein modulator(PC00022)	Arabidopsis thaliana
+ARATH|Gene=AT5G55410|UniProtKB=Q9FJ69	AT5G55410	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein;MTE17.12;ortholog	BIFUNCTIONAL INHIBITOR/LIPID-TRANSFER PROTEIN/SEED STORAGE 2S ALBUMIN SUPERFAMILY PROTEIN (PTHR33122:SF4)		Arabidopsis thaliana
+ARATH|Gene_OrderedLocusName=At1g43000|UniProtKB=A0A1P8AUB3	AT1G43000	PLATZ transcription factor family protein;At1g43000;ortholog	PLATZ TRANSCRIPTION FACTOR FAMILY PROTEIN (PTHR31065:SF12)		Arabidopsis thaliana
+ARATH|Gene_OrderedLocusName=At1g51830|UniProtKB=A0A1P8AWS5	AT1G51830	Leucine-rich repeat protein kinase family protein;At1g51830;ortholog	INTERLEUKIN-1 RECEPTOR-ASSOCIATED KINASE 4 PROTEIN-RELATED (PTHR45631:SF7)		Arabidopsis thaliana
+ARATH|TAIR=AT3G07820|UniProtKB=Q9SFD2	AT3G07820	Pectin lyase-like superfamily protein;F17A17.16;ortholog	PECTIN LYASE-LIKE SUPERFAMILY PROTEIN (PTHR31375:SF37)		Arabidopsis thaliana
+ARATH|TAIR=AT3G07390|UniProtKB=Q94BT2	AIR12	Auxin-induced in root cultures protein 12;AIR12;ortholog	AUXIN-INDUCED IN ROOT CULTURES PROTEIN 12 (PTHR23130:SF81)		Arabidopsis thaliana
+ARATH|TAIR=AT4G14760|UniProtKB=F4JIF4	AT4G14760	Protein NETWORKED 1B;NET1B;ortholog	PROTEIN NETWORKED 1A-RELATED (PTHR32258:SF6)		Arabidopsis thaliana
+ARATH|TAIR=AT1G69490|UniProtKB=O49255	NAP	NAC transcription factor 29;NAC029;ortholog	NAC TRANSCRIPTION FACTOR 29 (PTHR31719:SF84)		Arabidopsis thaliana
+ARATH|TAIR=AT1G51950|UniProtKB=O24408	IAA18	Auxin-responsive protein IAA18;IAA18;ortholog	AUXIN-RESPONSIVE PROTEIN-RELATED (PTHR31734:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT5G36657|UniProtKB=A8MRI4	AT5G36657	ECA1 gametogenesis related family protein;At5g36657;ortholog	CYSTEINE RICH PEPTIDE-RELATED (PTHR31181:SF51)		Arabidopsis thaliana
+ARATH|TAIR=AT2G04070|UniProtKB=Q9SIA3	AT2G04070	Protein DETOXIFICATION 4;DTX4;ortholog	MATE EFFLUX FAMILY PROTEIN-RELATED (PTHR11206:SF255)	transporter(PC00227)	Arabidopsis thaliana
+ARATH|TAIR=AT3G18420|UniProtKB=Q9LS48	AT3G18420	"protein SLOW GREEN 1, chloroplastic;SG1;ortholog"	"PROTEIN SLOW GREEN 1, CHLOROPLASTIC (PTHR26312:SF70)"		Arabidopsis thaliana
+ARATH|Gene=AT2G29300|UniProtKB=Q42182	AT2G29300	Tropinone reductase homolog At2g29300;At2g29300;ortholog	SENESCENCE-ASSOCIATED PROTEIN 13 (PTHR42898:SF7)	dehydrogenase(PC00092);reductase(PC00198)	Arabidopsis thaliana
+ARATH|TAIR=AT4G08520|UniProtKB=Q8H1F4	AT4G08520	Coatomer subunit zeta-3;At4g08520;ortholog	COATOMER SUBUNIT ZETA-RELATED (PTHR11043:SF0)	vesicle coat protein(PC00235)	Arabidopsis thaliana
+ARATH|TAIR=AT1G78880|UniProtKB=Q9ZVA7	AT1G78880	F9K20.7 protein;At1g78880;ortholog	F9K20.7 PROTEIN (PTHR33709:SF9)		Arabidopsis thaliana
+ARATH|Gene=AT2G44970|UniProtKB=Q84WV5	AT2G44970	Alpha/beta-Hydrolases superfamily protein;At2g44970;ortholog	ALPHA/BETA-HYDROLASES SUPERFAMILY PROTEIN (PTHR31934:SF4)		Arabidopsis thaliana
+ARATH|TAIR=AT5G60945|UniProtKB=A8MQ81	AT5G60945	ECA1 gametogenesis related family protein;At5g60945;ortholog	CYSTEINE RICH PEPTIDE-RELATED (PTHR31181:SF51)		Arabidopsis thaliana
+ARATH|TAIR=AT1G15330|UniProtKB=Q9XI37	AT1G15330	SNF1-related protein kinase regulatory subunit gamma-like PV42a;PV42A;ortholog	SNF1-RELATED PROTEIN KINASE REGULATORY SUBUNIT GAMMA-LIKE PV42A-RELATED (PTHR13780:SF51)	kinase modulator(PC00140)	Arabidopsis thaliana
+ARATH|TAIR=AT2G33980|UniProtKB=O22951	ATNUDT22	"Nudix hydrolase 22, chloroplastic;NUDT22;ortholog"	NUDIX HYDROLASE 11-RELATED (PTHR12992:SF16)	phosphatase(PC00181)	Arabidopsis thaliana
+ARATH|TAIR=AT4G27040|UniProtKB=Q5M759	AT4G27040	Vacuolar protein sorting-associated protein 22 homolog 1;VP22-1;ortholog	VACUOLAR-SORTING PROTEIN SNF8 (PTHR12806:SF0)		Arabidopsis thaliana
+ARATH|Gene_OrderedLocusName=At5g26280|UniProtKB=A0A1P8BA53	AT5G26280	TRAF-like family protein;At5g26280;ortholog			Arabidopsis thaliana
+ARATH|Gene=AT4G03945|UniProtKB=Q1G390	AT4G03945	Plant invertase/pectin methylesterase inhibitor superfamily protein;At4g03945;ortholog	PECTINESTERASE INHIBITOR 1-RELATED (PTHR31707:SF47)	enzyme modulator(PC00095)	Arabidopsis thaliana
+ARATH|Gene=AT2G41100|UniProtKB=P25071	TCH3	Calmodulin-like protein 12;CML12;ortholog	CALMODULIN-LIKE PROTEIN 12 (PTHR23050:SF349)	calmodulin(PC00061)	Arabidopsis thaliana
+ARATH|TAIR=AT5G09400|UniProtKB=Q9FY75	KUP7	Potassium transporter 7;POT7;ortholog	POTASSIUM TRANSPORTER 13-RELATED (PTHR30540:SF8)		Arabidopsis thaliana
+ARATH|TAIR=AT5G56410|UniProtKB=Q9FM90	AT5G56410	Putative FBD-associated F-box protein At5g56410;At5g56410;ortholog	EMB|CAB62440.1-RELATED (PTHR32212:SF237)		Arabidopsis thaliana
+ARATH|Gene=AT2G47690|UniProtKB=O82238	AT2G47690	NADH dehydrogenase [ubiquinone] iron-sulfur protein 5-A;At2g47690;ortholog	NADH DEHYDROGENASE [UBIQUINONE] IRON-SULFUR PROTEIN 5 (PTHR15224:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT5G47810|UniProtKB=Q9FIK0	AT5G47810	ATP-dependent 6-phosphofructokinase 2;PFK2;ortholog	ATP-DEPENDENT 6-PHOSPHOFRUCTOKINASE 2 (PTHR45770:SF9)		Arabidopsis thaliana
+ARATH|Gene=AT4G30510|UniProtKB=Q8H1Q8	AtATG18b	Autophagy-related protein 18b;ATG18B;ortholog	"AUTOPHAGY-RELATED 18A, ISOFORM E (PTHR11227:SF17)"		Arabidopsis thaliana
+ARATH|TAIR=AT5G14660|UniProtKB=Q9FUZ2	PDF1B	"Peptide deformylase 1B, chloroplastic/mitochondrial;PDF1B;ortholog"	PEPTIDE DEFORMYLASE (PTHR10458:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT5G56330|UniProtKB=Q9FM99	AT5G56330	Alpha carbonic anhydrase 8;ACA8;ortholog	ALPHA CARBONIC ANHYDRASE 2-RELATED (PTHR18952:SF184)		Arabidopsis thaliana
+ARATH|TAIR=AT4G20600|UniProtKB=P0CJ54	AT4G20640	Cysteine-rich repeat secretory protein 47;CRRSP47;ortholog	CYSTEINE-RICH REPEAT SECRETORY PROTEIN 18-RELATED (PTHR32411:SF42)		Arabidopsis thaliana
+ARATH|Gene=AT1G73490|UniProtKB=F4HQ94	AT1G73490	RNA-binding (RRM/RBD/RNP motifs) family protein;At1g73490;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT3G15240|UniProtKB=F4IXI5	AT3G15240	Serine/threonine-protein kinase WNK (With No Lysine)-like protein;At3g15240;ortholog	GB|AAF34833.1-RELATED (PTHR47375:SF1)		Arabidopsis thaliana
+ARATH|EnsemblGenome=AT4G20580|UniProtKB=P0CJ49	AT4G20640	Cysteine-rich repeat secretory protein 42;CRRSP42;ortholog	CYSTEINE-RICH REPEAT SECRETORY PROTEIN 18-RELATED (PTHR32411:SF42)		Arabidopsis thaliana
+ARATH|TAIR=AT1G80870|UniProtKB=Q9SAH3	AT1G80870	Putative receptor-like protein kinase At1g80870;At1g80870;ortholog	SUBFAMILY NOT NAMED (PTHR27001:SF157)		Arabidopsis thaliana
+ARATH|Gene=AT5G39160|UniProtKB=P92999	AT5G39160	Germin-like protein subfamily 1 member 18;GLP2A;ortholog	GERMIN-LIKE PROTEIN 2-RELATED (PTHR31238:SF95)		Arabidopsis thaliana
+ARATH|TAIR=AT4G19390|UniProtKB=Q94JM4	AT4G19390	AT4g19390/T5K18_170;At4g19390;ortholog	SUBFAMILY NOT NAMED (PTHR31721:SF4)		Arabidopsis thaliana
+ARATH|Gene=AT2G25760|UniProtKB=F4ISN5	AT2G25760	Protein kinase family protein;At2g25750;ortholog	PROTEIN KINASE FAMILY PROTEIN (PTHR11909:SF73)	non-receptor serine/threonine protein kinase(PC00167)	Arabidopsis thaliana
+ARATH|TAIR=AT3G43682|UniProtKB=F4J0G0	AT3G43682	Uncharacterized protein;At3g43682;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT1G69340|UniProtKB=Q94JV1	AT1G69340	Appr-1-p processing enzyme family protein;At1g69340;ortholog	GANGLIOSIDE-INDUCED DIFFERENTIATION-ASSOCIATED PROTEIN 2 (PTHR11106:SF72)		Arabidopsis thaliana
+ARATH|TAIR=AT5G05160|UniProtKB=Q9FHK7	AT5G05160	Probable leucine-rich repeat receptor-like protein kinase At5g05160;At5g05160;ortholog	SUBFAMILY NOT NAMED (PTHR27008:SF112)		Arabidopsis thaliana
+ARATH|TAIR=AT2G21810|UniProtKB=Q9SJ18	AT2G21810	Cysteine/Histidine-rich C1 domain family protein;At2g21810;ortholog	CHP-RICH ZINC FINGER PROTEIN-LIKE-RELATED (PTHR32410:SF152)		Arabidopsis thaliana
+ARATH|TAIR=AT4G14110|UniProtKB=P43255	COP9	COP9 signalosome complex subunit 8;CSN8;ortholog	COP9 SIGNALOSOME COMPLEX SUBUNIT 8 (PTHR13339:SF0)	signaling molecule(PC00207)	Arabidopsis thaliana
+ARATH|TAIR=AT4G23410|UniProtKB=Q84WF6	TET5	Tetraspanin-5;TET5;ortholog	TETRASPANIN-5 (PTHR32191:SF40)		Arabidopsis thaliana
+ARATH|TAIR=AT4G20550|UniProtKB=P0CJ59	AT4G20640	Cysteine-rich repeat secretory protein 52;CRRSP52;ortholog	CYSTEINE-RICH REPEAT SECRETORY PROTEIN 18-RELATED (PTHR32411:SF42)		Arabidopsis thaliana
+ARATH|Gene=AT1G22590|UniProtKB=Q7X9H1	AGL87	AGAMOUS-like 87;AGL87;ortholog	AGAMOUS-LIKE 87 (PTHR11945:SF377)	MADS box transcription factor(PC00250)	Arabidopsis thaliana
+ARATH|TAIR=AT1G64561|UniProtKB=B3H5C0	AT1G64561	Uncharacterized protein;At1g64561;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT5G28500|UniProtKB=Q9LKR8	AT5G28500	"Rubisco accumulation factor 1.1, chloroplastic;RAF1.1;ortholog"	"RUBISCO ACCUMULATION FACTOR 1.1, CHLOROPLASTIC-RELATED (PTHR35299:SF2)"		Arabidopsis thaliana
+ARATH|TAIR=AT2G31390|UniProtKB=Q9SID0	AT2G31390	Probable fructokinase-1;At2g31390;ortholog	FRUCTOKINASE-1-RELATED (PTHR43085:SF6)	carbohydrate kinase(PC00065);nucleotide kinase(PC00172)	Arabidopsis thaliana
+ARATH|TAIR=AT4G01310|UniProtKB=O04603	AT4G01310	"50S ribosomal protein L5, chloroplastic;RPL5;ortholog"	"54S RIBOSOMAL PROTEIN L7, MITOCHONDRIAL (PTHR11994:SF4)"	ribosomal protein(PC00202)	Arabidopsis thaliana
+ARATH|TAIR=AT1G60190|UniProtKB=O80742	AT1G60190	U-box domain-containing protein 19;PUB19;ortholog	U-BOX DOMAIN-CONTAINING PROTEIN 18-RELATED (PTHR23315:SF116)	cell adhesion molecule(PC00069);cytoskeletal protein(PC00085);signaling molecule(PC00207);storage protein(PC00210)	Arabidopsis thaliana
+ARATH|TAIR=AT1G69940|UniProtKB=Q84WM7	ATPPME1	Pectinesterase PPME1;PPME1;ortholog	PECTINESTERASE PPME1-RELATED (PTHR31321:SF23)		Arabidopsis thaliana
+ARATH|Gene=AT3G61270|UniProtKB=Q9M2D7	AT3G61270	Glycosyltransferase;T20K12.170;ortholog	DOWNSTREAM TARGET OF AGL15 2-RELATED (PTHR12203:SF28)		Arabidopsis thaliana
+ARATH|TAIR=AT2G34123|UniProtKB=Q2V433	AT2G34123	Putative defensin-like protein 52;At2g34123;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT4G32800|UniProtKB=Q9M080	AT4G32800	Ethylene-responsive transcription factor ERF043;ERF043;ortholog	ETHYLENE-RESPONSIVE TRANSCRIPTION FACTOR ERF043 (PTHR31985:SF80)		Arabidopsis thaliana
+ARATH|Gene=AT5G57565|UniProtKB=F4KC10	AT5G57565	Protein kinase superfamily protein;At5g57565;ortholog	CBL-INTERACTING SERINE/THREONINE-PROTEIN KINASE 21-RELATED (PTHR24343:SF123)	non-receptor serine/threonine protein kinase(PC00167)	Arabidopsis thaliana
+ARATH|TAIR=AT1G01380|UniProtKB=Q9LNI5	ETC1	MYB-like transcription factor ETC1;ETC1;ortholog	CAPRICE-LIKE MYB3-RELATED (PTHR10641:SF724)	DNA binding protein(PC00009);homeodomain transcription factor(PC00119)	Arabidopsis thaliana
+ARATH|EnsemblGenome=AT1G21580|UniProtKB=P0C945	AT1G21580	Uncharacterized protein At1g21580;At1g21580;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT5G45570|UniProtKB=Q9FH44	AT5G45570	Putative uncharacterized protein;At5g45570;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT5G25920|UniProtKB=F4JY97	AT5G25920	Uncharacterized protein;At5g25920;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT1G59675|UniProtKB=Q9LQ47	AT1G59675	Putative F-box protein At1g59675;At1g59675;ortholog	F-BOX ASSOCIATED UBIQUITINATION EFFECTOR FAMILY PROTEIN-RELATED (PTHR31790:SF28)		Arabidopsis thaliana
+ARATH|TAIR=AT5G57260|UniProtKB=Q9LVD2	CYP71B10	Cytochrome P450 71B10;CYP71B10;ortholog	BIFUNCTIONAL DIHYDROCAMALEXATE SYNTHASE/CAMALEXIN SYNTHASE-RELATED (PTHR24298:SF144)	oxygenase(PC00177)	Arabidopsis thaliana
+ARATH|TAIR=AT5G19970|UniProtKB=Q3E9A9	AT5G19970	GRAS family transcription factor family protein;At5g19970;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT5G49400|UniProtKB=Q6NMK2	AT5G49400	At5g49400;At5g49400;ortholog	ZINC FINGER CCHC DOMAIN-CONTAINING PROTEIN 10 (PTHR13491:SF0)		Arabidopsis thaliana
+ARATH|Gene=AT1G80460|UniProtKB=Q9M8L4	NHO1	Glycerol kinase;GLPK;ortholog	ZGC:172295 (PTHR10196:SF69)	carbohydrate kinase(PC00065)	Arabidopsis thaliana
+ARATH|EnsemblGenome=AT4G20580|UniProtKB=P0CJ56	AT4G20640	Cysteine-rich repeat secretory protein 49;CRRSP49;ortholog	CYSTEINE-RICH REPEAT SECRETORY PROTEIN 18-RELATED (PTHR32411:SF42)		Arabidopsis thaliana
+ARATH|TAIR=AT4G28940|UniProtKB=F4JM51	AT4G28940	Phosphorylase superfamily protein;At4g28940;ortholog	PHOSPHORYLASE SUPERFAMILY PROTEIN (PTHR21234:SF19)		Arabidopsis thaliana
+ARATH|TAIR=AT5G16460|UniProtKB=Q9FFD9	AT5G16460	Seipin-1;SEI1;ortholog	SEIPIN (PTHR21212:SF0)		Arabidopsis thaliana
+ARATH|TAIR=AT1G01980|UniProtKB=Q9LPC3	SEC1A	Berberine bridge enzyme-like 1;SEC1A;ortholog	BERBERINE BRIDGE ENZYME-LIKE 1-RELATED (PTHR32448:SF34)		Arabidopsis thaliana
+ARATH|Gene=AT4G38220|UniProtKB=F4JTK8	AT4G38220	Aminoacylase;AQI;ortholog	AMINOACYLASE-1 (PTHR45892:SF1)		Arabidopsis thaliana
+ARATH|Gene_OrderedLocusName=At3g46270|UniProtKB=A0A1I9LLS2	AT3G46270	Receptor protein kinase-like protein;At3g46270;ortholog	ER PROTEIN CARBOHYDRATE-BINDING PROTEIN-RELATED (PTHR45631:SF4)		Arabidopsis thaliana
+ARATH|Gene=AT4G18070|UniProtKB=Q8VZS7	AT4G18070	AT4G18070 protein;At4g18070;ortholog	EXPRESSED PROTEIN (PTHR37187:SF1)		Arabidopsis thaliana
+ARATH|Gene_OrderedLocusName=At3g44370|UniProtKB=A0A1I9LM69	AT3G44370	"Membrane insertion protein, OxaA/YidC with tetratricopeptide repeat domain-containing protein;At3g44370;ortholog"	"ALBINO3-LIKE PROTEIN 2, CHLOROPLASTIC-RELATED (PTHR12428:SF22)"	transporter(PC00227)	Arabidopsis thaliana
+ARATH|TAIR=AT2G39060|UniProtKB=Q9ZV02	AT2G39060	Bidirectional sugar transporter SWEET9;SWEET9;ortholog	BIDIRECTIONAL SUGAR TRANSPORTER SWEET9 (PTHR10791:SF52)		Arabidopsis thaliana
+ARATH|TAIR=AT1G65870|UniProtKB=Q9SS03	AT1G65870	Dirigent protein 21;DIR21;ortholog	DIRIGENT PROTEIN 1-RELATED (PTHR21495:SF135)		Arabidopsis thaliana
+ARATH|Gene=AT1G70100|UniProtKB=F4I3X3	AT1G70100	Neurofilament heavy protein;At1g70100;ortholog	F3I6.9 PROTEIN-RELATED (PTHR47286:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT1G67720|UniProtKB=C0LGI2	AT1G67720	Probable LRR receptor-like serine/threonine-protein kinase At1g67720;At1g67720;ortholog	SUBFAMILY NOT NAMED (PTHR45631:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT5G28830|UniProtKB=F4KA19	AT5G28830	Calcium-binding EF hand family protein;At5g28830;ortholog	CALCIUM-BINDING EF HAND FAMILY PROTEIN (PTHR34574:SF3)		Arabidopsis thaliana
+ARATH|TAIR=AT5G44200|UniProtKB=Q9XFD1	CBP20	Nuclear cap-binding protein subunit 2;CBP20;ortholog	NUCLEAR CAP-BINDING PROTEIN SUBUNIT 2 (PTHR18847:SF0)	RNA binding protein(PC00031)	Arabidopsis thaliana
+ARATH|TAIR=AT3G14980|UniProtKB=F4IXE7	AT3G14980	Increased DNA methylation 1;IDM1;ortholog	INCREASED DNA METHYLATION 1 (PTHR46508:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT5G42220|UniProtKB=Q8L745	AT5G42220	AT5g42220/K5J14_2;At5g42220;ortholog	SUBFAMILY NOT NAMED (PTHR15204:SF5)	enzyme modulator(PC00095)	Arabidopsis thaliana
+ARATH|TAIR=AT4G20590|UniProtKB=P0CJ55	AT4G20640	Cysteine-rich repeat secretory protein 48;CRRSP48;ortholog	CYSTEINE-RICH REPEAT SECRETORY PROTEIN 18-RELATED (PTHR32411:SF42)		Arabidopsis thaliana
+ARATH|Gene=AT1G79910|UniProtKB=Q8L402	AT1G79910	Putative uncharacterized protein At1g79910;At1g79910;ortholog	REGULATOR OF VPS4 ACTIVITY IN THE MVB PATHWAY PROTEIN (PTHR12161:SF14)		Arabidopsis thaliana
+ARATH|TAIR=AT4G34070|UniProtKB=F4JJY3	AT4G34070	Calcium-binding EF-hand family protein;At4g34070;ortholog	CALCIUM-BINDING EF-HAND FAMILY PROTEIN (PTHR23354:SF95)		Arabidopsis thaliana
+ARATH|TAIR=AT3G25260|UniProtKB=Q9LSF0	AT3G25260	Protein NRT1/ PTR FAMILY 4.1;NPF4.1;ortholog	PROTEIN NRT1/ PTR FAMILY 4.1-RELATED (PTHR11654:SF165)	transporter(PC00227)	Arabidopsis thaliana
+ARATH|Gene=AT4G23260|UniProtKB=Q8RX80	AT4G23260	Cysteine-rich receptor-like protein kinase 18;CRK18;ortholog	CYSTEINE-RICH RECEPTOR-LIKE PROTEIN KINASE 10-RELATED (PTHR27002:SF387)		Arabidopsis thaliana
+ARATH|Gene=AT4G25610|UniProtKB=Q8RXF0	AT4G25610	C2H2-like zinc finger protein;At4g25610;ortholog	C2H2-LIKE ZINC FINGER PROTEIN (PTHR36055:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT3G57150|UniProtKB=Q9LD90	NAP57	H/ACA ribonucleoprotein complex subunit 4;CBF5;ortholog	H/ACA RIBONUCLEOPROTEIN COMPLEX SUBUNIT 4 (PTHR23127:SF0)	centromere DNA-binding protein(PC00071)	Arabidopsis thaliana
+ARATH|TAIR=AT1G67400|UniProtKB=F4HRW0	AT1G67400	ELMO/CED-12 family protein;At1g67400;ortholog	ELMO/CED-12 FAMILY PROTEIN (PTHR12771:SF19)	signaling molecule(PC00207)	Arabidopsis thaliana
+ARATH|TAIR=AT5G52180|UniProtKB=Q9LTK2	AT5G52180	Dbj;BAA83359.1;ortholog	DBJ|BAA83359.1 (PTHR13624:SF6)		Arabidopsis thaliana
+ARATH|TAIR=AT1G79360|UniProtKB=O64515	ATOCT2	Organic cation/carnitine transporter 2;OCT2;ortholog	ORGANIC CATION/CARNITINE TRANSPORTER 2-RELATED (PTHR24064:SF328)		Arabidopsis thaliana
+ARATH|TAIR=AT4G12730|UniProtKB=Q9SU13	FLA2	Fasciclin-like arabinogalactan protein 2;FLA2;ortholog	FASCICLIN-LIKE ARABINOGALACTAN PROTEIN 2 (PTHR32382:SF13)		Arabidopsis thaliana
+ARATH|Gene=AT5G54600|UniProtKB=P92959	AT5G54600	"50S ribosomal protein L24, chloroplastic;RPL24;ortholog"	"50S RIBOSOMAL PROTEIN L24, CHLOROPLASTIC (PTHR12903:SF7)"	ribosomal protein(PC00202)	Arabidopsis thaliana
+ARATH|TAIR=AT3G14600|UniProtKB=Q9LUD4	AT3G14600	60S ribosomal protein L18a-3;RPL18AC;ortholog	60S RIBOSOMAL PROTEIN L18A-1-RELATED (PTHR10052:SF31)		Arabidopsis thaliana
+ARATH|TAIR=AT5G50490|UniProtKB=Q9FGP6	AT5G50490	Nuclear transcription factor Y subunit C-5;NFYC5;ortholog	NUCLEAR TRANSCRIPTION FACTOR Y SUBUNIT C-3-RELATED (PTHR10252:SF83)	DNA-directed DNA polymerase(PC00018);chromatin/chromatin-binding protein(PC00077);transcription factor(PC00218)	Arabidopsis thaliana
+ARATH|TAIR=AT1G69810|UniProtKB=Q9CAR4	WRKY36	Probable WRKY transcription factor 36;WRKY36;ortholog	WRKY TRANSCRIPTION FACTOR 36-RELATED (PTHR31429:SF24)		Arabidopsis thaliana
+ARATH|TAIR=AT1G04240|UniProtKB=Q38822	SHY2	Auxin-responsive protein IAA3;IAA3;ortholog	AUXIN-RESPONSIVE PROTEIN IAA3-RELATED (PTHR31734:SF93)		Arabidopsis thaliana
+ARATH|TAIR=AT4G29700|UniProtKB=Q9SU81	AT4G29700	Alkaline-phosphatase-like family protein;At4g29700;ortholog	ECTONUCLEOTIDE PYROPHOSPHATASE/PHOSPHODIESTERASE C27A7.1 (PTHR10151:SF103)	nucleotide phosphatase(PC00173);pyrophosphatase(PC00196)	Arabidopsis thaliana
+ARATH|TAIR=AT3G02555|UniProtKB=Q8LF93	AT3G02555	At3g02555;At3g02555;ortholog	SUBFAMILY NOT NAMED (PTHR33384:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT2G29710|UniProtKB=O82385	AT2G29710	UDP-glycosyltransferase 71D2;UGT71D2;ortholog	UDP-GLYCOSYLTRANSFERASE 71C1-RELATED (PTHR11926:SF753)		Arabidopsis thaliana
+ARATH|TAIR=AT4G27970|UniProtKB=Q9ASQ7	SLAH2	S-type anion channel SLAH2;SLAH2;ortholog	S-TYPE ANION CHANNEL SLAH2 (PTHR31269:SF2)		Arabidopsis thaliana
+ARATH|Gene=AT2G31370|UniProtKB=Q04088	AT2G31370	Probable transcription factor PosF21;POSF21;ortholog	TRANSCRIPTION FACTOR POSF21-RELATED (PTHR13690:SF80)		Arabidopsis thaliana
+ARATH|TAIR=AT3G60270|UniProtKB=Q9LY37	AT3G60270	Cupredoxin superfamily protein;F27H5_60;ortholog	CUPREDOXIN SUPERFAMILY PROTEIN-RELATED (PTHR33021:SF174)		Arabidopsis thaliana
+ARATH|Gene_OrderedLocusName=At5g56330|UniProtKB=A0A1P8BGF7	AT5G56330	Alpha carbonic anhydrase 8;ACA8;ortholog	ALPHA CARBONIC ANHYDRASE 2-RELATED (PTHR18952:SF184)		Arabidopsis thaliana
+ARATH|TAIR=AT2G04795|UniProtKB=Q94JV8	AT2G04795	AT2g04793;At2g04795;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT3G04945|UniProtKB=P82732	LCR18	Putative defensin-like protein 184;LCR18;ortholog	DEFENSIN-LIKE PROTEIN 155-RELATED (PTHR33830:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT1G61520|UniProtKB=Q9SY97	LHCA3	"Photosystem I chlorophyll a/b-binding protein 3-1, chloroplastic;LHCA3;ortholog"	"PHOTOSYSTEM I CHLOROPHYLL A/B-BINDING PROTEIN 3-1, CHLOROPLASTIC (PTHR21649:SF14)"		Arabidopsis thaliana
+ARATH|TAIR=AT4G20570|UniProtKB=P0CJ57	AT4G20640	Cysteine-rich repeat secretory protein 50;CRRSP50;ortholog	CYSTEINE-RICH REPEAT SECRETORY PROTEIN 18-RELATED (PTHR32411:SF42)		Arabidopsis thaliana
+ARATH|TAIR=AT2G35110|UniProtKB=Q5S2C4	NAP	Protein NAP1;NAP1;ortholog	MEMBRANE-ASSOCIATED PROTEIN HEM (PTHR12093:SF10)		Arabidopsis thaliana
+ARATH|Gene=AT2G18050|UniProtKB=P94109	HIS1-3	Histone H1;His1-3;ortholog	HISTONE H1 (PTHR11467:SF50)		Arabidopsis thaliana
+ARATH|TAIR=AT4G32940|UniProtKB=Q39119	GAMMA-VPE	Vacuolar-processing enzyme gamma-isozyme;At4g32940;ortholog	VACUOLAR-PROCESSING ENZYME ALPHA-ISOZYME-RELATED (PTHR12000:SF22)	cysteine protease(PC00081)	Arabidopsis thaliana
+ARATH|TAIR=AT5G38760|UniProtKB=Q9FKR1	AT5G38760	At5g38760;MKD10.60;ortholog	ABA-INDUCIBLE PROTEIN-LIKE-RELATED (PTHR34191:SF5)		Arabidopsis thaliana
+ARATH|TAIR=AT2G04880|UniProtKB=Q9SI37	ZAP1	WRKY transcription factor 1;WRKY1;ortholog	WRKY TRANSCRIPTION FACTOR 1-RELATED (PTHR31221:SF104)		Arabidopsis thaliana
+ARATH|TAIR=AT1G22160|UniProtKB=Q8VY80	AT1G22160	Putative uncharacterized protein;At1g22160;ortholog	F28K19.24 (PTHR33059:SF4)		Arabidopsis thaliana
+ARATH|TAIR=AT4G10730|UniProtKB=F4JMF4	AT4G10730	Protein kinase superfamily protein;At4g10730;ortholog	"FRAYED, ISOFORM A (PTHR24361:SF159)"		Arabidopsis thaliana
+ARATH|TAIR=AT1G55390|UniProtKB=Q9C6G8	AT1G55390	Cysteine/Histidine-rich C1 domain family protein;At1g55390;ortholog	CHP-RICH ZINC FINGER PROTEIN-RELATED (PTHR32410:SF153)		Arabidopsis thaliana
+ARATH|TAIR=AT3G25950|UniProtKB=Q6DR02	AT3G25950	Putative uncharacterized protein;At3g25950;ortholog	SUBFAMILY NOT NAMED (PTHR31766:SF4)		Arabidopsis thaliana
+ARATH|TAIR=AT5G10770|UniProtKB=Q8S9J6	AT5G10770	Aspartyl protease family protein At5g10770;At5g10770;ortholog	ASPARTYL PROTEASE AED1 (PTHR13683:SF393)	aspartic protease(PC00053)	Arabidopsis thaliana
+ARATH|TAIR=AT2G29850|UniProtKB=F4ILN4	AT2G29850	Uncharacterized protein;At2g29850;ortholog	HISTIDINE-TRNA LIGASE (PTHR31871:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT4G40070|UniProtKB=Q8W571	AT4G40070	RING-H2 finger protein ATL32;ATL32;ortholog	E3 UBIQUITIN-PROTEIN LIGASE ATL31-RELATED (PTHR14155:SF263)	ubiquitin-protein ligase(PC00234)	Arabidopsis thaliana
+ARATH|TAIR=AT5G40950|UniProtKB=Q9FLN4	RPL27	"50S ribosomal protein L27, chloroplastic;RPL27;ortholog"	"50S RIBOSOMAL PROTEIN L27, CHLOROPLASTIC (PTHR15893:SF6)"	ribosomal protein(PC00202)	Arabidopsis thaliana
+ARATH|TAIR=AT4G20620|UniProtKB=P0CJ52	AT4G20640	Cysteine-rich repeat secretory protein 45;CRRSP45;ortholog	CYSTEINE-RICH REPEAT SECRETORY PROTEIN 18-RELATED (PTHR32411:SF42)		Arabidopsis thaliana
+ARATH|TAIR=AT1G72690|UniProtKB=Q9CAI4	AT1G72690	At1g72690;At1g72690;ortholog	SUBFAMILY NOT NAMED (PTHR35277:SF5)		Arabidopsis thaliana
+ARATH|TAIR=AT4G20640|UniProtKB=P0CJ50	AT4G20640	Cysteine-rich repeat secretory protein 43;CRRSP43;ortholog	CYSTEINE-RICH REPEAT SECRETORY PROTEIN 18-RELATED (PTHR32411:SF42)		Arabidopsis thaliana
+ARATH|TAIR=AT2G37590|UniProtKB=O80928	AT2G37590	Dof zinc finger protein DOF2.4;DOF2.4;ortholog	DOF ZINC FINGER PROTEIN DOF2.4-RELATED (PTHR31992:SF66)		Arabidopsis thaliana
+ARATH|TAIR=AT5G37460|UniProtKB=Q9FG42	AT5G37460	Putative uncharacterized protein;At5g37460;ortholog	F12P19.17 PROTEIN-RELATED (PTHR31861:SF15)		Arabidopsis thaliana
+ARATH|TAIR=AT1G57550|UniProtKB=Q9FE70	AT1G57550	UPF0057 membrane protein At1g57550;At1g57550;ortholog	SUBFAMILY NOT NAMED (PTHR21659:SF65)		Arabidopsis thaliana
+ARATH|TAIR=AT4G06536|UniProtKB=Q1PEB2	AT4G06536	At4g06536;At4g06536;ortholog			Arabidopsis thaliana
+					
+BP_pantherChart					
+1	cellular component organization or biogenesis (GO:0071840)	17	8.20%	9.90%	
+2	cellular process (GO:0009987)	53	25.50%	31.00%	
+3	localization (GO:0051179)	15	7.20%	8.80%	
+4	reproduction (GO:0000003)	2	1.00%	1.20%	
+5	biological regulation (GO:0065007)	13	6.30%	7.60%	
+6	response to stimulus (GO:0050896)	15	7.20%	8.80%	
+7	developmental process (GO:0032502)	5	2.40%	2.90%	
+8	locomotion (GO:0040011)	1	0.50%	0.60%	
+9	multicellular organismal process (GO:0032501)	2	1.00%	1.20%	
+10	metabolic process (GO:0008152)	48	23.10%	28.10%	
+					
+CC_pantherChart					
+1	cell junction (GO:0030054)	1	0.50%	0.90%	
+2	membrane (GO:0016020)	22	10.60%	19.30%	
+3	macromolecular complex (GO:0032991)	13	6.30%	11.40%	
+4	cell part (GO:0044464)	45	21.60%	39.50%	
+5	organelle (GO:0043226)	32	15.40%	28.10%	
+6	extracellular region (GO:0005576)	1	0.50%	0.90%	
+					
+MF_pantherChart					
+1	binding (GO:0005488)	16	7.70%	23.50%	
+2	receptor activity (GO:0004872)	2	1.00%	2.90%	
+3	structural molecule activity (GO:0005198)	3	1.40%	4.40%	
+4	signal transducer activity (GO:0004871)	3	1.40%	4.40%	
+5	catalytic activity (GO:0003824)	36	17.30%	52.90%	
+6	transporter activity (GO:0005215)	8	3.80%	11.80%	
+					
+pathway_pantherChart					
+1	Gonadotropin-releasing hormone receptor pathway (P06664)	1	0.50%	9.10%	
+2	Muscarinic acetylcholine receptor 2 and 4 signaling pathway (P00043)	1	0.50%	9.10%	
+3	Interleukin signaling pathway (P00036)	1	0.50%	9.10%	
+4	p38 MAPK pathway (P05918)	1	0.50%	9.10%	
+5	Transcription regulation by bZIP transcription factor (P00055)	1	0.50%	9.10%	
+6	Endothelin signaling pathway (P00019)	1	0.50%	9.10%	
+7	CCKR signaling map (P06959)	1	0.50%	9.10%	
+8	PDGF signaling pathway (P00047)	1	0.50%	9.10%	
+9	Ras Pathway (P04393)	1	0.50%	9.10%	
+10	Heme biosynthesis (P02746)	1	0.50%	9.10%	
+11	Nicotinic acetylcholine receptor signaling pathway (P00044)	1	0.50%	9.10%	
+					
+Protein_pantherChart					
+1	transporter (PC00227)	6	2.90%	9.70%	
+2	membrane traffic protein (PC00150)	3	1.40%	4.80%	
+3	hydrolase (PC00121)	12	5.80%	19.40%	
+4	oxidoreductase (PC00176)	3	1.40%	4.80%	
+5	cell adhesion molecule (PC00069)	1	0.50%	1.60%	
+6	enzyme modulator (PC00095)	5	2.40%	8.10%	
+7	lyase (PC00144)	1	0.50%	1.60%	
+8	transfer/carrier protein (PC00219)	1	0.50%	1.60%	
+9	transferase (PC00220)	9	4.30%	14.50%	
+10	transcription factor (PC00218)	4	1.90%	6.50%	
+11	nucleic acid binding (PC00171)	7	3.40%	11.30%	
+12	ligase (PC00142)	2	1.00%	3.20%	
+13	calcium-binding protein (PC00060)	2	1.00%	3.20%	
+14	isomerase (PC00135)	1	0.50%	1.60%	
+15	cytoskeletal protein (PC00085)	1	0.50%	1.60%	
+16	storage protein (PC00210)	1	0.50%	1.60%	
+17	signaling molecule (PC00207)	3	1.40%	4.80%	
